@@ -69,7 +69,7 @@ export const Home = () => {
   return (
     <div className={styles.home}>
       <Meta
-        title="Defi + blockchain"
+        title=" Somos + DEFI "
         description="DeFi university — escola de finanças descentralizadas."
       />
       <Intro
@@ -109,7 +109,7 @@ export const Home = () => {
         title="Desenvolvimento de jogos play to earn"
         description="Neste curso você aprenderá os fundamentos para criação de jogos play to earn também conhecidos como jogos nft"
         buttonText="Saiba mais"
-        buttonLink="https://gamestack.hamishw.com"
+        buttonLink="https://hotmart.com/pt-br/marketplace/produtos/criacao-de-jogos-nft-play-to-earn/X65810130R"
         model={{
           type: 'phone',
           alt: 'App login screen',

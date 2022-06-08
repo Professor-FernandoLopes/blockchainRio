@@ -510,7 +510,7 @@ export const SmartSparrow = () => {
               <ProjectSectionText>
                
                 <Link href="https://pay.hotmart.com/L63442499V?checkoutMode=10">
-                 click aqui e use o cupom BlockchainRio
+                  use o cupom BlockchainRio
                 </Link>{' '}
                 para se tornar um criador de conhecimento.
               </ProjectSectionText>

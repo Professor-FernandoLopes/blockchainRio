@@ -23,7 +23,7 @@ const ProfileText = ({ visible, titleId }) => (
       Eu sou o professor Fernando Lopes, fundador da DeFi University.{' '}
       Para ser um profissional de destaque são necessários conhecimentos interdisciplinares.  
       Por isso, após perceber a ausência no Brasil de cursos com visão holística e prática no sentido da formação de profissionais para o complexo mercado de criptoativos, decidi fundar a DeFi university.
-      Contudo, o profissional do presente está em constante transformação, e a cada dia vemos a intersecção de disciplinas como blockchain, IoT, Ar, metaverso, que caminham para uma integração.
+      Contudo, o profissional do presente está em constante transformação e a cada dia vemos a intersecção de disciplinas como blockchain, IoT, Ar, metaverso, que caminham para uma integração.
       Não podemos ficar fora desse momento histórico da humanidade, onde vemos uma mudança profunda nas relações sociais. Precisamos fazer parte disso. Por isso, junte-se à DeFi university na construção da sociedade 5.0. 
 
 
